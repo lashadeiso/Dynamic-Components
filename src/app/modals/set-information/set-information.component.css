@@ -1,0 +1,12 @@
+#exampleModal {
+  display: block;
+  opacity: 1;
+}
+
+.modal-dialog {
+  top: 100px;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
